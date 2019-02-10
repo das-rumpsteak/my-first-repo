@@ -1,0 +1,17 @@
+commit 279c04a20847f792c1499a49853c424264635314
+Author: das-rumpsteak <danieljosephchambers@gmail.com>
+Date:   Sun Feb 10 19:11:22 2019 +0000
+
+    added gitignore
+
+commit 9281902b1e6a0bc5d29eef250919526ebf73e626
+Author: das-rumpsteak <danieljosephchambers@gmail.com>
+Date:   Sun Feb 3 13:45:44 2019 +0000
+
+    added two files
+
+commit 23f55cb105d736c348f71bd593b4c8fbc3e95747
+Author: das-rumpsteak <danieljosephchambers@gmail.com>
+Date:   Sun Feb 3 13:42:40 2019 +0000
+
+    added readme.txt
